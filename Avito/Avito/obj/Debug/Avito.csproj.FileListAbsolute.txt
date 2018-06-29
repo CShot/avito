@@ -1,0 +1,18 @@
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\bin\Debug\Avito.exe.config
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\bin\Debug\Avito.exe
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\bin\Debug\Avito.pdb
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.Form1.resources
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.Properties.Resources.resources
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.csproj.GenerateResource.Cache
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.exe
+C:\Users\Максимка\Documents\Visual Studio 2013\Projects\Avito\Avito\obj\Debug\Avito.pdb
+C:\Users\Максимка\Desktop\Avito\Avito\bin\Debug\Avito.exe.config
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.exe
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.pdb
+C:\Users\Максимка\Desktop\Avito\Avito\bin\Debug\Avito.exe
+C:\Users\Максимка\Desktop\Avito\Avito\bin\Debug\Avito.pdb
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.csprojResolveAssemblyReference.cache
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.Form1.resources
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.Properties.Resources.resources
+C:\Users\Максимка\Desktop\Avito\Avito\obj\Debug\Avito.csproj.GenerateResource.Cache
